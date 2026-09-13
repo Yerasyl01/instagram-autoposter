@@ -1,0 +1,8 @@
+session*
+.env
+.venv
+__pycache__
+pyproject.toml
+logs/
+ads/
+reference_ad*
